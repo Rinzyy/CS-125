@@ -1,4 +1,5 @@
 // check temperature
+// written by Rindy Tuy
 #include <iostream>
 using namespace std;
 int main()
