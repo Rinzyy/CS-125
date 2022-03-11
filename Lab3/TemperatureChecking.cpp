@@ -25,9 +25,13 @@ int main()
     {
         cout << "Always keep your cool!" << endl;
     }
-    else
+    else if (Temp < 20)
     {
         cout << "Cool breeze in the air!" << endl;
+    }
+    else
+    {
+        cout << "Temperature is too high!" << endl;
     }
 
     return 0;
