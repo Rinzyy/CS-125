@@ -54,13 +54,13 @@ int main()
 
     } while (score[count] > 0); // stop the while loop when reach -1
 
-    cout << "Number of A: " << aGrade << endl;             // print to user
-    cout << "Number of B: " << bGrade << endl;             // print to user
-    cout << "Number of C: " << cGrade << endl;             // print to user
-    cout << "Number of D: " << dGrade << endl;             // print to user
-    cout << "Number of F: " << fGrade << endl;             // print to user
-    cout << "Number of INVALID: " << invalidGrade << endl; // print to user
-    cout << "Total Number: " << count << endl;             // print to user
+    cout << "Number of A's: " << aGrade << endl;            // print to user
+    cout << "Number of B's: " << bGrade << endl;            // print to user
+    cout << "Number of C's: " << cGrade << endl;            // print to user
+    cout << "Number of D's: " << dGrade << endl;            // print to user
+    cout << "Number of F's: " << fGrade << endl;            // print to user
+    cout << "Number of INVALIDs: " << invalidGrade << endl; // print to user
+    cout << "Total Numbers: " << count << endl;             // print to user
 
     return 0;
 }
