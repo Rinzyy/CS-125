@@ -1,1 +1,5 @@
-98 87 86 85 85 78 73 72 72 70 66 50 -1
+witch (score[count])
+    {
+    case 5:
+        break;
+    }
